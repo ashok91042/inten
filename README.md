@@ -1,1 +1,1 @@
-RegiFormsSimpletration 
+Simple Registration form
