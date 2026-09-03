@@ -1,8 +1,8 @@
 Simple Registration form
 
 THIS PROJECT IS BUILD WITH:
- .HTML
- .CSS
+ 1.HTML
+ 2.CSS
  
  IN Html we use semantic way to build project because structure with meaning full way
  
